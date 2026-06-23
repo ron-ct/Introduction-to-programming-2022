@@ -3,9 +3,9 @@
 
 int main()
 {
-    printf("Name: Rony Karanja\n");
-    printf("UNIVERSITY: JKUAT\n");
-    printf("REG No. : SCT212-0590/2022\n");
-    printf("COURSE: Computer Technology\n");
+    printf("Name: John Doe\n");
+    printf("UNIVERSITY: UON\n");
+    printf("REG No. : ABC-EFG/2025\n");
+    printf("COURSE: Computer Science\n");
     return 0;
 }
